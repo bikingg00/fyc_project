@@ -1,0 +1,102 @@
+﻿NOM,NUMERO,REGION,SUPERFICIE,POPULATION,DENSITE
+Ain,1,Auvergne-Rhône-Alpes,5762,631877,109.7
+Aisne,2,Hauts-de-France,7369,538659,73.1
+Allier,3,Auvergne-Rhône-Alpes,7340,341613,46.5
+Alpes-de-Haute-Provence,4,Provence-Alpes-Côte d'Azur,6925,161799,23.4
+Hautes-Alpes,5,Provence-Alpes-Côte d'Azur,5549,140916,25.4
+Alpes-Maritimes,6,Provence-Alpes-Côte d'Azur,4299,1082440,251.8
+Ardèche,7,Auvergne-Rhône-Alpes,5529,324209,58.6
+Ardennes,8,Grand Est,5229,277752,53.1
+Ariège,9,Occitanie,4890,152499,31.2
+Aube,10,Grand Est,6004,309056,51.5
+Aude,11,Occitanie,6139,366957,59.8
+Aveyron,12,Occitanie,8735,279169,32
+Bouches-du-Rhône,13,Provence-Alpes-Côte d'Azur,5088,2016622,396.4
+Calvados,14,Normandie,5548,693579,125
+Cantal,15,Auvergne-Rhône-Alpes,5726,146219,25.5
+Charente,16,Nouvelle-Aquitaine,5956,353613,59.4
+Charente-Maritime,17,Nouvelle-Aquitaine,6864,639938,93.2
+Cher,18,Centre-Val de Loire,7235,308992,42.7
+Corrèze,19,Nouvelle-Aquitaine,5857,241871,41.3
+Corse-du-Sud,2A,Corse,4014,152730,38
+Haute-Corse,2B,Corse,4666,174553,37.4
+Côte-d'Or,21,Bourgogne-Franche-Comté,8763,533147,60.8
+Côtes-d'Armor,22,Bretagne,6878,598357,87
+Creuse,23,Nouvelle-Aquitaine,5565,120365,21.6
+Dordogne,24,Nouvelle-Aquitaine,9060,415417,45.9
+Doubs,25,Bourgogne-Franche-Comté,5233,536959,102.6
+Drôme,26,Auvergne-Rhône-Alpes,6530,504637,77.3
+Eure,27,Normandie,6040,601948,99.7
+Eure-et-Loir,28,Centre-Val de Loire,5880,434035,73.8
+Finistère,29,Bretagne,6733,907796,134.8
+Gard,30,Occitanie,5853,738189,126.1
+Haute-Garonne,31,Occitanie,6309,1335103,211.6
+Gers,32,Occitanie,6257,190932,30.5
+Gironde,33,Nouvelle-Aquitaine,9976,1548478,155.2
+Hérault,34,Occitanie,6101,1120190,183.6
+Ille-et-Vilaine,35,Bretagne,6775,1042884,153.9
+Indre,36,Centre-Val de Loire,6791,224200,33
+Indre-et-Loire,37,Centre-Val de Loire,6127,604966,98.7
+Isère,38,Auvergne-Rhône-Alpes,7432,1251060,168.3
+Jura,39,Bourgogne-Franche-Comté,4999,260587,52.1
+Landes,40,Nouvelle-Aquitaine,9243,403234,43.6
+Loir-et-Cher,41,Centre-Val de Loire,6343,333050,52.5
+Loire,42,Auvergne-Rhône-Alpes,4781,759411,158.9
+Haute-Loire,43,Auvergne-Rhône-Alpes,4977,227034,45.6
+Loire-Atlantique,44,Pays de la Loire,6809,1365227,200.5
+Loiret,45,Centre-Val de Loire,6775,673349,99.4
+Lot,46,Occitanie,5217,173400,33.2
+Lot-et-Garonne,47,Nouvelle-Aquitaine,5361,333417,62.2
+Lozère,48,Occitanie,5167,76309,14.8
+Maine-et-Loire,49,Pays de la Loire,7172,810186,113
+Manche,50,Normandie,5938,499287,84.1
+Marne,51,Grand Est,8162,572293,70.1
+Haute-Marne,52,Grand Est,6211,179154,28.8
+Mayenne,53,Pays de la Loire,5175,307940,59.5
+Meurthe-et-Moselle,54,Grand Est,5246,734403,140
+Meuse,55,Grand Est,6211,190626,30.7
+Morbihan,56,Bretagne,6823,744813,109.2
+Moselle,57,Grand Est,6216,1044486,168
+Nièvre,58,Bourgogne-Franche-Comté,6817,211747,31.1
+Nord,59,Hauts-de-France,5743,2605238,453.7
+Oise,60,Hauts-de-France,5860,821552,140.2
+Orne,61,Normandie,6103,286618,47
+Pas-de-Calais,62,Hauts-de-France,6671,1472648,220.7
+Puy-de-Dôme,63,Auvergne-Rhône-Alpes,7970,647501,81.2
+Pyrénées-Atlantiques,64,Nouvelle-Aquitaine,7645,670032,87.6
+Hautes-Pyrénées,65,Occitanie,4464,228582,51.2
+Pyrénées-Orientales,66,Occitanie,4116,471038,114.4
+Bas-Rhin,67,Grand Est,4755,1116658,234.8
+Haut-Rhin,68,Grand Est,3525,762607,216.3
+Rhône,69,Auvergne-Rhône-Alpes,3249,1821995,560.8
+Haute-Saône,70,Bourgogne-Franche-Comté,5360,237706,44.3
+Saône-et-Loire,71,Bourgogne-Franche-Comté,8575,555408,64.8
+Sarthe,72,Pays de la Loire,6206,568445,91.6
+Savoie,73,Auvergne-Rhône-Alpes,6028,428204,71
+Haute-Savoie,74,Auvergne-Rhône-Alpes,4388,793938,180.9
+Paris,75,Ile-de-France,105,2206488,20934.4
+Seine-Maritime,76,Normandie,6278,1257699,200.3
+Seine-et-Marne,77,Ile-de-France,5915,1390121,235
+Yvelines,78,Ile-de-France,2284,1427291,624.8
+Deux-Sèvres,79,Nouvelle-Aquitaine,5999,374435,62.4
+Somme,80,Hauts-de-France,6170,571879,92.7
+Tarn,81,Occitanie,5758,386543,67.1
+Tarn-et-Garonne,82,Occitanie,3718,255274,68.7
+Var,83,Provence-Alpes-Côte d'Azur,5973,1048652,175.6
+Vaucluse,84,Provence-Alpes-Côte d'Azur,3567,557548,156.3
+Vendée,85,Pays de la Loire,6720,666714,99.2
+Vienne,86,Nouvelle-Aquitaine,6990,434887,62.2
+Haute-Vienne,87,Nouvelle-Aquitaine,5520,375795,68.1
+Vosges,88,Grand Est,5874,372016,63.3
+Yonne,89,Bourgogne-Franche-Comté,7427,340903,45.9
+Territoire de Belfort,90,Bourgogne-Franche-Comté,609,144483,237.1
+Essonne,91,Ile-de-France,1804,1276233,707.3
+Hauts-de-Seine,92,Ile-de-France,176,1601569,9120.6
+Seine-St-Denis,93,Ile-de-France,236,1592663,6742.9
+Val-de-Marne,94,Ile-de-France,245,1372389,5601.6
+Val-D'Oise,95,Ile-de-France,1246,1215390,975.5
+Guadeloupe,971,Guadeloupe,1628,397990,244.4
+Martinique,972,Martinique,1128,380877,337.7
+Guyane,973,Guyane,83534,259865,3.1
+La Réunion,974,La Réunion,2504,850727,339.8
+Mayotte,976,Mayotte,376,256518,682.2
